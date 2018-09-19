@@ -1,3 +1,7 @@
+**Notice:** This book has been replaced by an updated version: https://www.gitbook.com/book/dmd-program/dmd-100-fa18/details
+
+***
+
 ![dmd 100 course background art](/assets/dmd100-bg-compressed-cropped.jpg)
 
 # DMD 100: Digital Multimedia Design Foundations
